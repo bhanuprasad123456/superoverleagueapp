@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "types-registry": "^0.1.648"
+    "types-registry": "^0.1.649"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",

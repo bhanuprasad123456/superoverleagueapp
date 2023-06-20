@@ -10,13 +10,13 @@
 1 verbose cli ]
 2 info using npm@6.14.6
 3 info using node@v12.18.3
-4 verbose npm-session 86f202e635712de0
+4 verbose npm-session 109b611166282169
 5 silly install loadCurrentTree
 6 silly install readLocalPackageData
-7 http fetch GET 200 https://registry.npmjs.org/@types%2flint-staged 254ms
+7 http fetch GET 200 https://registry.npmjs.org/@types%2flint-staged 4118ms
 8 silly fetchPackageMetaData error for @types/lint-staged@ts3.6 No matching version found for @types/lint-staged@ts3.6.
 9 timing stage:rollbackFailedOptional Completed in 0ms
-10 timing stage:runTopLevelLifecycles Completed in 463ms
+10 timing stage:runTopLevelLifecycles Completed in 4350ms
 11 verbose type tag
 12 verbose stack @types/lint-staged: No matching version found for @types/lint-staged@ts3.6.
 12 verbose stack     at pickManifest (/usr/local/lib/node_modules/npm/node_modules/npm-pick-manifest/index.js:122:13)

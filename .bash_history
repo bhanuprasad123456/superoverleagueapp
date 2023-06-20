@@ -735,3 +735,11 @@ git add .
 ccbp start RJSCPUPP7H
 npm install
 npm start
+nm start
+npm start
+ccbp start RJSCPXAS42
+ccbp authenticate AKVIQ10MXP
+ccbp start FNLL8QE5WE
+ccbp start RJSCPXAS42
+ccbp start RJSCPRQUI5
+npm install
